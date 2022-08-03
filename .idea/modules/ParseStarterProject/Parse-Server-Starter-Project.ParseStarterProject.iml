@@ -43,20 +43,20 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../ParseStarterProject/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../ParseStarterProject/build" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:multidex-instrumentation:1.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout-solver:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:26.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.parse:parse-android:1.13.0" level="project" />
     <orderEntry type="library" name="Gradle: com.parse.bolts:bolts-tasks:1.4.0" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:23.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support.constraint:constraint-layout:1.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services:9.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cast-framework:9.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-cast:9.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:mediarouter-v7:23.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:23.4.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:multidex:1.0.2@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:23.4.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:23.4.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:appcompat-v7:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:animated-vector-drawable:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-vector-drawable:26.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads:9.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-lite:9.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-analytics:9.4.0@aar" level="project" />
@@ -103,6 +103,12 @@
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-gass:9.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:9.4.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:9.4.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:support-v4:23.4.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-v4:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-media-compat:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-fragment:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-utils:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-core-ui:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-compat:26.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:multidex:1.0.0@aar" level="project" />
   </component>
 </module>

@@ -2,6 +2,7 @@
   <library name="Gradle: com.google.firebase:firebase-database:9.4.0@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d29070556249ca7656e38007ec92c25/firebase-database-9.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea430fd50261d38ca9270452c55e9d2f/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d29070556249ca7656e38007ec92c25/firebase-database-9.4.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d29070556249ca7656e38007ec92c25/firebase-database-9.4.0/jars/classes.jar!/" />
     </CLASSES>

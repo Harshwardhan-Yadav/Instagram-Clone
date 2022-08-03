@@ -2,6 +2,7 @@
   <library name="Gradle: com.google.firebase:firebase-analytics-impl:9.4.0@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06c7ab543e4828788724419deafc44d5/firebase-analytics-impl-9.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdf51da502317e88983425af95e3c4f5/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06c7ab543e4828788724419deafc44d5/firebase-analytics-impl-9.4.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06c7ab543e4828788724419deafc44d5/firebase-analytics-impl-9.4.0/jars/classes.jar!/" />
     </CLASSES>

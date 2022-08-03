@@ -2,6 +2,7 @@
   <library name="Gradle: com.google.android.gms:play-services-auth-base:9.4.0@aar">
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a328654094837efd278da3e0a387d464/play-services-auth-base-9.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6be42fb8331ce33bc7b2bfa29de4ab07/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a328654094837efd278da3e0a387d464/play-services-auth-base-9.4.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a328654094837efd278da3e0a387d464/play-services-auth-base-9.4.0/AndroidManifest.xml" />
     </CLASSES>

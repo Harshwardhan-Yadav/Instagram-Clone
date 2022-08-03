@@ -3,6 +3,7 @@
     <CLASSES>
       <root url="file://$PROJECT_DIR$/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services/9.4.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34b76b338cdd4b192d5366a7ab01faa4/play-services-9.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16dc82e2577576784586f11b6dc5fa63/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34b76b338cdd4b192d5366a7ab01faa4/play-services-9.4.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34b76b338cdd4b192d5366a7ab01faa4/play-services-9.4.0/jars/classes.jar!/" />
     </CLASSES>
